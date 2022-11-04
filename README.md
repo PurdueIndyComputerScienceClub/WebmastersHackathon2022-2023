@@ -54,6 +54,9 @@ How much thought did you put into your user's experience? While the first task i
 #### Outstanding Back End
 Any programmer will know that the more features you have, the trickier it can be to organize and code the back end of your website. How did you organize your project so that coding your features in the back end would go as smoothly as possible? Did you do any diagrams to understand the data you are using and find ways to organize it?
 
+#### Honorable Mention
+This is prize goes to the project that didn't win any of the other prizes, but still did a great job in the event by learning and applying web development concepts. 
+
 ## Rules
 The rules for this event aren't a lot, but please stick to them:
 
