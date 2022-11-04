@@ -127,7 +127,9 @@ Below are some examples on how to get started with programming a website. Feel f
 ## Submission Details
 For this event, we will be having you submit your project using a combination of canvas and github. When you are finished with your project, you will be asked to upload your code and documentation to github, then provide your name (or group name), your project's name, the video presentation, and the link to your github repository on canvas.
 
-*Submissions will NOT be accepted past the deadline. Everyone has the same amount of time to work on their projects. Please ask if you have any questions. If you wish to submit after the deadline anyway, you can, but you will not be eligible for prizes.
+Projects can begin on Monday, XXXX, and are due by 11:59 pm on Sunday, XXXX.
+
+*Submissions will NOT be accepted past the deadline. Everyone has the same amount of time to work on their projects. Please ask if you have any questions. If you wish to submit after the deadline anyway, you can, but you will not be eligible for prizes. If you are not finished and are worried about missing the deadline, submit what you have first then keep working.
 
 ## Other Details
 By submitting a project in this event, you are agreeing to allowing us to show your project in future events and to promote the club as well as archiving the submission for club records. The project stays as your own - this is NOT a claim to creating it or call it ours. If we decide to use your project in any media or at any events, you will be credited and cited. Let us know if you have any questions about this.
