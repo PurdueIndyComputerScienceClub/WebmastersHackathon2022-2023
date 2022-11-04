@@ -36,9 +36,9 @@ The second place student at each level will receive:
 The second place group will receive:
 
 #### 3rd Place:
-The second place student at each level will receive: 
+The third place student at each level will receive: 
 
-The second place group will receive:
+The third place group will receive:
 
 On top of this, we will have prizes for:
 
