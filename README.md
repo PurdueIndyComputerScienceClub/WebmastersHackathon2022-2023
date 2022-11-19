@@ -84,7 +84,7 @@ This event was made open ended so that you can take this in any direction you wi
 > What problem did you solve, or what fun tool did you make? 
 > How much of your personality shines through the project?
 
-4. **Coding Style:**
+3. **Coding Style:**
 Documentation is only one part - your code has to be readable and sensible so that you and others can quickly understand how it works.
 
 > Did you use a strong coding style? 
@@ -92,7 +92,7 @@ Documentation is only one part - your code has to be readable and sensible so th
 > Did you use sensible variable and function names? 
 > Did you use accepted programming practices?
 
-6. **Complexity:**
+4. **Complexity:**
 While we have a limited amount of time to compete, we want to see what you can do. 
 *If you are a novice to web development, don't worry - the goal of this event is to learn something new and apply it in a useful way. Just do your best.
 
@@ -100,18 +100,18 @@ While we have a limited amount of time to compete, we want to see what you can d
 > Or did you add a substantial amount of features to make the program more flexible and usable?
 >  If you used a language without a lot of built-in features, how did you get it to work?
 
-8. **Professionalism:**
+5. **Professionalism:**
 We want to see not only what you can do, but how refined you can make your project.
 
 > Does the program work well without flaws and hiccups? 
 > Is it easy for users to learn and use?
 
-10. **Aesthetics:**
+6. **Aesthetics:**
 There are lots of options to make a website look/feel good. While the priority of any computer scientist is functionality, UX (User Experience) doesn't simply disappear.
 
 > Did you think carefully about what tools will best allow the best User Experience?
 
-12. **Presentation (Video Submission):**
+7. **Presentation (Video Submission):**
 Once you have a complete project, the work is not quite done. Having the capability to explain your work to other is not just useful - it is *essential* to working in the industry. Do your best to walk us through your website in video format with all of its use cases. You will submit your code, but due to the nature of this hackathon and the possible we frameworks out there - there are hundreds - unless you make the website available on the internet we may not be able to experience your website first-hand. This is your chance to make sure everything is 100% clear to the graders.
 
 *While I don't want to give an exact time limit on video submissions, please keep the time reasonable. Just enough time to get your point across for your website's features and anything else worth mentioning. While it is a good trait to be able to speak about your project, rambling on and on is not. To put it in a few words: **Clear and to the point is key.**
