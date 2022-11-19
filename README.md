@@ -125,7 +125,7 @@ Below are some examples on how to get started with programming a website. Feel f
 *You are not required to use any of the examples given here or the web stacks used. If you already have web development experience and want to use what you know, then perfect.
 
 ## Submission Details
-For this event, we will be having you submit your project using a combination of canvas and github. When you are finished with your project, you will be asked to upload your code and documentation to github, then provide your name (or group name), your project's name, the video presentation, and the link to your github repository on canvas.
+For this event, we will be having you submit your project using a Canvas. When you are finished with your project, you will be asked to upload your code, documentation, your name (or group name), your project's name, and the video presentation on canvas.
 
 Projects can begin on Monday, XXXX, and are due by 11:59 pm on Sunday, XXXX.
 
