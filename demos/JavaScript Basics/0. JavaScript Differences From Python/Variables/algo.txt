@@ -1,0 +1,19 @@
+Resources:
+https://www.w3schools.com/js/js_scope.asp
+https://www.w3schools.com/js/js_variables.asp
+
+1. Defined breadName_var with the value "Mike"
+2. Defined breadName_let with the value "Wheat"
+3. Defined breadName_const with the value of "Gluten-Free"
+
+4. Redefine breadName_var in curly brackets to the value of "John"
+5. Try to redefine breadName_let but instead create a local variable with the same name in curly brackets with the value set to "Taco"
+
+6. Create function test
+    6a. Define breadInFunction with the value of "breadFunc"
+
+7. Alert user the current value of breadName_var (which is John since it was redefined inside of the curly brackets)
+8. Alert user the current value of breadName_let (which is Wheat since it wasn't redefined inside of the curly brackets)
+9. Alert user the current value of breadName_const (which is Gluten-Free)
+    NOTE: Modification of this variable would throw an exception since const variable can't be modified
+10. Alert user the current value of breadInFunction (which throws an exception since the variable can only be access the function it was defined in)

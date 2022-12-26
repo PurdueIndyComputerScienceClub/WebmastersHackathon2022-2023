@@ -1,0 +1,11 @@
+1. Sets a click event listener on the button element "submitBtn1" that calls the setList function when user clicks button
+
+2. function setList
+    2a. Grabs the text from the "textBox1" element and sets that to text variable
+    2b. Grabs the list element and sets to variable list
+    2c. Creates a element "li" (list item) that is separate from our html document. We then set that to variable itemAdd
+    2d. Append the user inputted text to our new element by creating a html text node and appending that (object) to itemAdd element
+    2e. Append the itemAdd element to our main html document list.
+
+3. function setListAdvance
+    3a. Same as setList but nesting all those commands into each other, executing from the inside-out.

@@ -1,0 +1,10 @@
+1. Defined function clickEvent 
+    1a. Grabs text from inside element "textInputBox1" in html document.
+    1b. Write grabbed text into a heading tag element <h2>
+
+2. Add event listener to submit button on html document and run "clickEvent" function when user clicks button
+
+Resources:
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+https://www.w3schools.com/tags/tag_button.asp
+https://www.w3schools.com/tags/tag_input.asp

@@ -1,0 +1,19 @@
+1. Create class with the properties (name, email, and dateAdded)
+    1a. Create currentTime function that grabs the current date time when class is initialized
+
+2. Create buildTable function
+    2a. Grab table element from html document
+    2b. Create list of "listItems" objects with name and email properties filled out
+
+3. Create for loop that cycles through every item in dataArray
+    3a. Create new table row element
+    3b. Create new table data element
+    3c. Set inner text of table data element as contents of name property from listItems class object
+    3d. Append table data element to table row
+
+    3e. Create new table data element
+    3f. Set inner text of table data element as contents of email property from listItems class object
+    3g. Append table data element to table row 
+    3h. Append table row element to main table from html document
+
+4. Call buildTable function on load of html page

@@ -1,0 +1,6 @@
+NOTE: Lists don't exist in JavaScript
+
+1. Create a array and set 4 elements with bread types
+2. Grab element 3 from breadArray and alert the result to the user
+3. Create a dictionary of bread types and their associated prices
+4. Grab the price associated with the element labeled "White" and alert the result to the user

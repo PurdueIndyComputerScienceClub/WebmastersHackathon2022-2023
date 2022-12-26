@@ -1,0 +1,10 @@
+1. Define class named BreadBox
+    1a. Create constructor and take in the breadType, breadQuantity and the boolean, needBread on object creation
+    1b. Define toggleNeedBread function
+        1ba. Checks if needBread bool is set to false, if so, set to true
+        1bb. Else, needBread is set to false since needBread must already be true
+
+2. Create Breadbox object and instantiate with the accompanying variables
+3. Alert user the current status of the needBread boolean
+4. Call the toggleNeedBread function which will change the currently false needBread bool, to true
+5. Alert user the current status of the needBread boolean

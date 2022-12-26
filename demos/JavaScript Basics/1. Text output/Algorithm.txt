@@ -1,0 +1,21 @@
+index.html:
+
+	<script src="code.js"></script>
+
+	Loads in the javascript code from the code.js file and runs it. 
+
+code.js:
+	1. document.write("<p> text to display on page </p>")
+	
+		Outputs text onto the html page and accepts direct html format as well. e.g "<h1> text </h1>"
+		NOTE: appends the text to the bottom of page no matter where you load it in html doc
+
+	2. alert("popup text")
+	
+		Pops up a message box at the top of the page
+
+	3. console.log("write text to console")
+	
+		logs text to the javascript console (SHIFT+CTRL+J in chrome on windows) or (inspect page, then click console
+
+	

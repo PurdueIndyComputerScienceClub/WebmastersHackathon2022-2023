@@ -1,0 +1,1 @@
+1. Listens for mouse event and calls alert function with the message "SURPRISE!!" when event is triggered

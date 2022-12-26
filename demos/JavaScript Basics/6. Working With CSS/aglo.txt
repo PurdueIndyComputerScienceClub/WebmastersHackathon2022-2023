@@ -1,0 +1,11 @@
+1. Grab element "blue1" and listen for a click event. On click, call "setColor" function and pass the string "blue"
+2. Grab element "green1" and listen for a click event. On click, call "setColor" function and pass the string "green"
+
+3. function setColor
+    3a. Sets html document background color to the received color
+
+OTHER WAY:
+
+1. Listens for click on "blue1"/"green1" element
+    1a. "()" creates a anonymous function, a function that has no name and mostly used for temporary things
+    1b. Sets html document background color inside that anonymous function. 
