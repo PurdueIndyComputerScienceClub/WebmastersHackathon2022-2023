@@ -93,6 +93,8 @@ For this event, we will be having you submit your project using a Canvas. When y
 * **your project's name** - if you a category, your project needs a cool name so it can be recognized!
 * **A Video Presentation** - A video of you going over the project. Tell us what we need to know about the project. Your ability to present your work is important too! Communicating your work with others is an important skill that you cannot do without. Try to keep it short - only tell us what we need to know while going over what you think is important and notable about your project.
 
+**The Canvas Course name is: Computer Science Club at IUPUI. Go to this google form and submit it so we can add you to the canvas page: https://forms.gle/q3jqJHYFbsWSzzKFA**
+
 Projects can begin on Monday, February 13th, at 6:00 pm, and are due by 11:59 pm on Sunday, February 19th.
 
 *Submissions will NOT be accepted past the deadline. Everyone has the same amount of time to work on their projects. Please ask if you have any questions. If you wish to submit after the deadline anyway, you can, but you will be inelligible for winning a category. If you are not finished and are worried about missing the deadline, submit what you have first then keep working.
