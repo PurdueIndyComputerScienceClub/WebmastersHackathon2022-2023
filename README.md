@@ -113,7 +113,7 @@ We will have SL-247 & SL251 Reserved for the following times, of which a club of
 * Friday, February 17th, 1-4 pm in SL247 & SL251
 
 ### Club Discord
-The club discord is the primary mode of contact if you have any questions, other than in-person at the event. The link to the discord can be found [here](https://discord.gg/chaTPJRU). Please use the @officer notification in the "Webmaster Hackathon" Text channel to get answers to questions.
+The club discord is the primary mode of contact if you have any questions, other than in-person at the event. The link to the discord can be found [here](https://discord.gg/DgYEDzfKJD). Please use the @officer notification in the "Webmaster Hackathon" Text channel to get answers to questions.
 
 ### Email
 Below is a list of people you can email in order to get answers to questions. We will do our best to respond as quickly as possible; the above ways will be faster so try those first.
