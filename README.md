@@ -119,5 +119,6 @@ The club discord is the primary mode of contact if you have any questions, other
 Below is a list of people you can email in order to get answers to questions. We will do our best to respond as quickly as possible; the above ways will be faster so try those first.
 
 * Club President: Edwin Sanchez - edwsanch@iu.edu
+* Club Vice-President : Raja Allmdar Tariq Ali - rajaali@iu.edu
 
 > Special thanks to Andy Harris for providing us with examples for setting up this hackathon. We appreciate it!
