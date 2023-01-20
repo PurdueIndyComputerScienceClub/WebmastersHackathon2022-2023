@@ -7,7 +7,7 @@ Please read through the rest of this document carefully - it will hopefully answ
 
 This event is open to everyone! This includes (but is not limited to) Freshman, Sophomores, Juniors, Seniors, Graduate students from any school at IUPUI. All entries will recieve a free T-shirt by showing up to either the event kickoff or one of the Q&A/work sessions scheduled to help participants.
 
-##Useful Links
+## Useful Links
  - **Canvas Page:** https://iu.instructure.com/enroll/BPAWRG
 
 ## The Theme: Webmasters
