@@ -7,6 +7,9 @@ Please read through the rest of this document carefully - it will hopefully answ
 
 This event is open to everyone! This includes (but is not limited to) Freshman, Sophomores, Juniors, Seniors, Graduate students from any school at IUPUI. All entries will recieve a free T-shirt by showing up to either the event kickoff or one of the Q&A/work sessions scheduled to help participants.
 
+##Useful Links
+ - **Canvas Page:** https://iu.instructure.com/enroll/BPAWRG
+
 ## The Theme: Webmasters
 This hackathon has been divided into two separate competitions: **Front-End** and **Full-Stack**.
 
@@ -93,7 +96,7 @@ For this event, we will be having you submit your project using a Canvas. When y
 * **your project's name** - if you a category, your project needs a cool name so it can be recognized!
 * **A Video Presentation** - A video of you going over the project. Tell us what we need to know about the project. Your ability to present your work is important too! Communicating your work with others is an important skill that you cannot do without. Try to keep it short - only tell us what we need to know while going over what you think is important and notable about your project.
 
-**The Canvas Course name is: Computer Science Club at IUPUI. Go to this google form and submit it so we can add you to the canvas page: https://forms.gle/q3jqJHYFbsWSzzKFA**
+**The Canvas Course name is: Computer Science Club at IUPUI. You can visit it [here](https://iu.instructure.com/enroll/BPAWRG)**
 
 Projects can begin on Monday, February 13th, at 6:00 pm, and are due by 11:59 pm on Sunday, February 19th.
 
