@@ -22,7 +22,7 @@ The event will take place on the second full week of February. You will have fro
 
 
 ### Front End Competition:
-The **Front End** competition is focused on the html, css, and javascript that goes into creating a website. The Front End competition does not require a back end to make any of the front-end features work. However, you may come up with as many features as you like and set up the website as if it would have a backend. The goal is to design and implement a front end of a website you can be proud of.
+The **Front End** competition is focused on the html, css, and javascript that goes into creating a website. The Front End competition does not require a back-end to make any of the front-end features work. However, you *may* come up with as many features as you like and set up the website as if it *would* have a backend (Although this is not required). The goal is to design and implement a front end of a website you can be proud of.
 
 Note:**You do NOT need to write a backend for the front-end competition. Focus on HTML, CSS, and JavaScript.**
 
