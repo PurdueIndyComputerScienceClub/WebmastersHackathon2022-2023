@@ -11,7 +11,7 @@ This event is open to everyone! This includes (but is not limited to) Freshman, 
  - **Canvas Page:** https://iu.instructure.com/enroll/BPAWRG
  - **Website:** http://csclub.cs.iupui.edu/
  - **Instagram:** https://www.instagram.com/iupui_computer_science_club/
- - **Discord:** https://github.com/IUPUIComputerScienceClub/WebmastersHackathon2022-2023
+ - **Discord:**  https://discord.gg/DgYEDzfKJD
 
 ## The Theme: Webmasters
 This hackathon has been divided into two separate competitions: **Front-End** and **Full-Stack**.
