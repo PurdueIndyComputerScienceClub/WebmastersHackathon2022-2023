@@ -126,5 +126,8 @@ Below is a list of people you can email in order to get answers to questions. We
 
 * Club President: Edwin Sanchez - edwsanch@iu.edu
 * Club Vice-President : Raja Allmdar Tariq Ali - rajaali@iu.edu
+* Senator: Avinash Pandey – aopandey@iu.edu
+* Social Media Manager : Nikhil Dhoka – ndhoka@iu.edu
+* Technology Officer: William Reindl – wreindl@iu.edu
 
 > Special thanks to Andy Harris for providing us with examples for setting up this hackathon. We appreciate it!
