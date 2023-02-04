@@ -93,10 +93,11 @@ We expect there to be some complete beginners for this competition, and that's p
 
 ## Submission Details
 For this event, we will be having you submit your project using a Canvas. When you are finished with your project, you will be asked to upload the following to the canvas page:
-* **Project Code** - All of the scripts/code you wrote to run the project.
-* **Project Documentation** - All of the documentation you made for the project, as well as anything else you may wish to share - project workflows, diagrams, planning tools, etc.
 * **your name (or your group name w/your members' names)**
 * **your project's name** - if you a category, your project needs a cool name so it can be recognized!
+* **Project Code** - All of the scripts/code you wrote to run the project.
+* **Categories** - The categories you are wanting to compete for. We will still consider you for all of the categories in your competition (not required, but helpful!). We will still consider you for all categories, this just helps us to know what you focused on.
+* **Project Documentation** - All of the documentation you made for the project, as well as anything else you may wish to share - project workflows, diagrams, planning tools, etc.
 * **A Video Presentation** - A video of you going over the project. Tell us what we need to know about the project. Your ability to present your work is important too! Communicating your work with others is an important skill that you cannot do without. Try to keep it short - only tell us what we need to know while going over what you think is important and notable about your project.
 
 **The Canvas Course name is: Computer Science Club at IUPUI. You can visit it [here](https://iu.instructure.com/enroll/BPAWRG)**
