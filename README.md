@@ -96,6 +96,7 @@ For this event, we will be having you submit your project using a Canvas. When y
 * **your name (or your group name w/your members' names)**
 * **your project's name** - if you a category, your project needs a cool name so it can be recognized!
 * **Project Code** - All of the scripts/code you wrote to run the project.
+* **Competition** - Which competition is your submission for? (Front End or Full Stack).
 * **Categories** - The categories you are wanting to compete for. We will still consider you for all of the categories in your competition (not required, but helpful!). We will still consider you for all categories, this just helps us to know what you focused on.
 * **Project Documentation** - All of the documentation you made for the project, as well as anything else you may wish to share - project workflows, diagrams, planning tools, etc.
 * **A Video Presentation** - A video of you going over the project. Tell us what we need to know about the project. Your ability to present your work is important too! Communicating your work with others is an important skill that you cannot do without. Try to keep it short - only tell us what we need to know while going over what you think is important and notable about your project.
