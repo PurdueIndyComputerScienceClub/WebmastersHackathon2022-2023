@@ -5,7 +5,7 @@ Please read through the rest of this document carefully - it will hopefully answ
 
 **Who Can Participate?**
 
-This event is open to everyone! This includes (but is not limited to) Freshman, Sophomores, Juniors, Seniors, Graduate students from any school at IUPUI. All entries will recieve a free T-shirt by showing up to either the event kickoff or one of the Q&A/work sessions scheduled to help participants.
+This event is open to everyone! This includes (but is not limited to) Freshman, Sophomores, Juniors, Seniors, Graduate students from any school at IUPUI. All entries will receive a free T-shirt by showing up to either the event kickoff or one of the Q&A/work sessions scheduled to help participants.
 
 ## Useful Links
  - **Kickoff Zoom Link:** https://iu.zoom.us/j/88266103348
